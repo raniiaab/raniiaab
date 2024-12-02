@@ -55,17 +55,17 @@
 
     <section class="products">
         <div class="product">
-            <img src="https://via.placeholder.com/300" alt="Produit 1">
+            <img src="https://images.pexels.com/photos/3952043/pexels-photo-3952043.jpeg?auto=compress&cs=tinysrgb&w=300" alt="Produit 1">
             <h2>Produit 1</h2>
             <p>Description de notre premier produit.</p>
         </div>
         <div class="product">
-            <img src="https://via.placeholder.com/300" alt="Produit 2">
+            <img src="https://images.pexels.com/photos/715688/pexels-photo-715688.jpeg?auto=compress&cs=tinysrgb&w=300" alt="Produit 2">
             <h2>Produit 2</h2>
             <p>Description de notre deuxième produit.</p>
         </div>
         <div class="product">
-            <img src="https://via.placeholder.com/300" alt="Produit 3">
+            <img src="https://images.pexels.com/photos/2123243/pexels-photo-2123243.jpeg?auto=compress&cs=tinysrgb&w=300" alt="Produit 3">
             <h2>Produit 3</h2>
             <p>Description de notre troisième produit.</p>
         </div>
