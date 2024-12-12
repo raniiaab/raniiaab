@@ -1,0 +1,15 @@
+name: "Serve Static HTML"
+description: "Dockerized action to serve index.html using an HTTP server"
+author: "Your Name"
+
+inputs:
+  port:
+    description: "Port to serve the HTML file on"
+    required: false
+    default: "8080"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+  args:
+    - ${{ inputs.port }}
